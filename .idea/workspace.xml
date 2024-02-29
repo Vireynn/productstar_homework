@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae0a6d6-cc7b-4a92-ab13-0445a72e5c4e" name="Changes" comment="Practice #2" />
+    <list default="true" id="3ae0a6d6-cc7b-4a92-ab13-0445a72e5c4e" name="Changes" comment="Practice #2">
+      <change afterPath="$PROJECT_DIR$/Ступень I/Основы Python/Практическое занятие. Функции/Задание 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,8 +51,8 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Vireynn/Python/ProductStar&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Задание 7">
-    <configuration name="Задание 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Задание 1">
+    <configuration name="Задание 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProductStar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ступень I/Основы Python/Списки и словари в Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ступень I/Основы Python/Практическое занятие. Функции" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ступень I/Основы Python/Списки и словари в Python/Задание 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ступень I/Основы Python/Практическое занятие. Функции/Задание 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Задание 1" />
         <item itemvalue="Python.Задание 7" />
         <item itemvalue="Python.Задание 6" />
         <item itemvalue="Python.Задание 4" />
         <item itemvalue="Python.Задание 5" />
-        <item itemvalue="Python.Задание 3" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709155378974</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Practice #2">
+      <created>1709234018781</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709234018781</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
