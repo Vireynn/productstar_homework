@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae0a6d6-cc7b-4a92-ab13-0445a72e5c4e" name="Changes" comment="Practice">
-      <change afterPath="$PROJECT_DIR$/Ступень I/Основы Python/Списки и словари в Python/Задание 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ступень I/Основы Python/Списки и словари в Python/Задание 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ступень I/Основы Python/Списки и словари в Python/Задание 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ступень I/Основы Python/Списки и словари в Python/Задание 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ступень I/Основы Python/Списки и словари в Python/Задание 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ступень I/Основы Python/Списки и словари в Python/Задание 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ступень I/Основы Python/Списки и словари в Python/Задание 7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3ae0a6d6-cc7b-4a92-ab13-0445a72e5c4e" name="Changes" comment="Practice #2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709070543802</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Practice #2">
+      <created>1709155378974</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709155378974</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +263,7 @@
     <MESSAGE value="Lesson #2" />
     <MESSAGE value="Lesson #3" />
     <MESSAGE value="Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
+    <MESSAGE value="Practice #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice #2" />
   </component>
 </project>
